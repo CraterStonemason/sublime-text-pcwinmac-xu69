@@ -1,4 +1,4 @@
-# 
+# Inteligente Sublime Text predefinições para Mac OS | Profissional Sublime Text predefinições para PC Windows. Com integração de terminal e navegador de registro — otimizado para máximo desempenho em cada plataforma.
 
 
 
